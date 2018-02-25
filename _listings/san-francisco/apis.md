@@ -1,0 +1,35 @@
+---
+name: San Francisco
+description: The City of San Francisco Open Data Portal is is provided by the City
+  and County of San Francisco to enhance open government, transparency, and accountability
+  by improving access to data. The Open Data Portal is a one-stop destination for
+  all approved City data that will help constituents make better use of information.
+  This new ease of access will lead to innovation in how residents interact with government,
+  resulting in social and economic benefits for the City.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/san-fracisco-data-logo.png
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Stack Network
+- San Francisco
+- City Government
+- City Government
+- City
+- California
+- API LIfeycle
+created: "2018-02-25"
+modified: "2018-02-25"
+url: https://raw.githubusercontent.com/streamdata-gallery/city-government/master/_listings/san-francisco/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/city-and-county-of-san-francisco
+- type: x-website
+  url: https://data.sfgov.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
